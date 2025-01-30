@@ -6,7 +6,7 @@ public class LoaderNew {
 
     public static void main(String[] args) throws Exception {
 
-        String fileName = "Performance/VoteAnalyzer/res/data-1572M.xml";
+        String fileName = "res/data-1572M.xml";
 
         long start = System.currentTimeMillis();
 
